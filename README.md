@@ -26,6 +26,12 @@ vii.	¿Cómo los contenidos y funcionalidades resuelven cada uno de las necesida
 
 En el proyecto hemos puesto un carrito de compra para que nuestro usuario pueda acumular sus productos ahí, también tiene permitido comprar el mismo producto las veces que desee, la pagina es muy fácil de usar asi que se acomodara a los conocimientos del usuario, si el usuario desea saber mas sobre nosotros en la parte inferior pusimos toda nuestra información y también hay una sección con un blog sobre nosotros y nuestros productos
 
+CREDENCIALES DE LA PAGINA:
+
+Usuario: k1shop908
+Contraseña: n2qcXjcS
+
+
 LINKS:
 
 AVANCES GOOGLE DRIVE:https://drive.google.com/drive/u/0/folders/1nJKkme2w-vKWI0d0zLYOc5N_YQBjIiEw
