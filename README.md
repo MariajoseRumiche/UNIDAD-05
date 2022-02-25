@@ -24,5 +24,6 @@ vii.	Explicación de cómo los contenidos y funcionalidades resuelven cada uno d
 En el proyecto hemos puesto un carrito de compra para que nuestro usuario pueda acumular sus productos ahí, también tiene permitido comprar el mismo producto las veces que desee, la pagina es muy fácil de usar asi que se acomodara a los conocimientos del usuario, si el usuario desea saber mas sobre nosotros en la parte inferior pusimos toda nuestra información y también hay una sección con un blog sobre nosotros y nuestros productos
 
 LINKS:
-AVANCES DRIVE:https://drive.google.com/drive/u/0/folders/1nJKkme2w-vKWI0d0zLYOc5N_YQBjIiEw
+
+AVANCES GOOGLE DRIVE:https://drive.google.com/drive/u/0/folders/1nJKkme2w-vKWI0d0zLYOc5N_YQBjIiEw
 PROTOTIPOS:https://www.canva.com/design/DAE5HqcgB3I/SCGprl9EunWTn9aYaphiqg/edit
