@@ -1,5 +1,5 @@
 
-PROYECTO 05
+K-SHOP
 
 
 i.	Objetivos del proyecto
