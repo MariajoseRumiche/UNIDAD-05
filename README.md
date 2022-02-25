@@ -12,3 +12,5 @@ vi.	Explicación de cómo los contenidos y funcionalidades responden a los objet
 El objetivo de este proyecto es que los usuarios encuentren la prenda que ellos desean de manera fácil y rápida es por eso que en este proyecto hemos puesto muchas categorías muy especificadas para que sea mas fácil buscar las prendas que necesiten
 vii.	Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final
 En el proyecto hemos puesto un carrito de compra para que nuestro usuario pueda acumular sus productos ahí, también tiene permitido comprar el mismo producto las veces que desee, la pagina es muy fácil de usar asi que se acomodara a los conocimientos del usuario, si el usuario desea saber mas sobre nosotros en la parte inferior pusimos toda nuestra información y también hay una sección con un blog sobre nosotros y nuestros productos
+Link de la carpeta de Google Drive(público) donde están fotos, videos, modelo canvas o archivos extras donde se evidencia tus avances.
+https://drive.google.com/drive/u/0/folders/1nJKkme2w-vKWI0d0zLYOc5N_YQBjIiEw
