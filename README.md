@@ -18,11 +18,11 @@ iv.	Definición de la solución/producto
 
 Estos productos son prendas basadas en artistas famosos en el mundo del K-Pop, nosotras al ver que esta moda se hizo muy famosa entre los adolescentes decidimos vender estos productos para que asi las personas puedan lucir prendas iguales del que consideran su ídolo en el mundo del K-Pop comprando de manera virtual sin tener que ir a lugares lejanos.
 
-vi.	Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.
+vi.	¿Cómo los contenidos y funcionalidades responden a los objetivos del proyecto?
 
 El objetivo de este proyecto es que los usuarios encuentren la prenda que ellos desean de manera fácil y rápida es por eso que en este proyecto hemos puesto muchas categorías muy especificadas para que sea mas fácil buscar las prendas que necesiten
 
-vii.	Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final
+vii.	¿Cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final?
 
 En el proyecto hemos puesto un carrito de compra para que nuestro usuario pueda acumular sus productos ahí, también tiene permitido comprar el mismo producto las veces que desee, la pagina es muy fácil de usar asi que se acomodara a los conocimientos del usuario, si el usuario desea saber mas sobre nosotros en la parte inferior pusimos toda nuestra información y también hay una sección con un blog sobre nosotros y nuestros productos
 
