@@ -30,3 +30,4 @@ LINKS:
 
 AVANCES GOOGLE DRIVE:https://drive.google.com/drive/u/0/folders/1nJKkme2w-vKWI0d0zLYOc5N_YQBjIiEw
 LOGOTIPOS:https://www.canva.com/design/DAE5HqcgB3I/SCGprl9EunWTn9aYaphiqg/edit
+LINK DE LA PAGINA PUBLICADA:http://www.k-shop3.com.mialias.net/
