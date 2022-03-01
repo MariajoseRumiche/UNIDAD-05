@@ -26,6 +26,27 @@ vii.	¿Cómo los contenidos y funcionalidades resuelven cada uno de las necesida
 
 En el proyecto hemos puesto un carrito de compra para que nuestro usuario pueda acumular sus productos ahí, también tiene permitido comprar el mismo producto las veces que desee, la pagina es muy fácil de usar asi que se acomodara a los conocimientos del usuario, si el usuario desea saber mas sobre nosotros en la parte inferior pusimos toda nuestra información y también hay una sección con un blog sobre nosotros y nuestros productos
 
+
+DESING THINKING
+
+1.	EMPATIZAR:
+
+Muchos de nosotros siempre hemos querido vestirnos igual o parecido a algún famoso que admiramos y se nos es difícil encontrar estas prendas dado que o son muy caras o son piezas únicas, bueno pues es ahí donde nuestra proyecto entra, esta pagina nos ayudara a encontrar toda prenda que que queramos de nuestro ídolo del K-POP.
+
+2.	DEFINIR:
+
+Unos de los problemas que hemos encontrado en nuestros usuarios es que al momento de buscar ropa koreana o relacionada al K-Pop no tienen muchas opciones ya que no han muchas paginas sobre esto.
+
+3.	  IDEAR:
+
+Como solución hemos creado esta pagina que esta dirigida mas que todo a las fans del K-pop o a las fans de la ropa Koreana, en esta pagina es fácil y rápido comprar, y encontras todos los modelos de tus idols que tu deses ya que nuestra pagina renovara cada mes su stock
+
+4.	PROTOTIPAR:
+
+
+
+
+
 CREDENCIALES DE LA PAGINA:
 
 Usuario: k1shop908
