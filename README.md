@@ -43,9 +43,9 @@ Como solución hemos creado esta pagina que esta dirigida mas que todo a las fan
 
 4.	PROTOTIPAR:
 
+![Image text](https://github.com/MariajoseRumiche/UNIDAD-05/blob/main/WhatsApp%20Image%202022-03-01%20at%207.10.26%20AM%20(1).jpeg)
 
-
-
+![Image text](https://github.com/MariajoseRumiche/UNIDAD-05/blob/main/WhatsApp%20Image%202022-03-01%20at%207.10.26%20AM.jpeg)
 
 CREDENCIALES DE LA PAGINA:
 
